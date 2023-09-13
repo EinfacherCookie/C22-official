@@ -2,13 +2,13 @@
 description: Chats von Chat GPT die noch wichtig für den weiteren Verlauf sind
 ---
 
-# Chat GPT
+# 🤖 Chat GPT
 
 ## Projektplan
 
-* [ ] **1. Anforderungsanalyse:**
+* [x] **1. Anforderungsanalyse:**
   * Detaillierte Anforderungen sammeln und dokumentieren, basierend auf unseren vorherigen Gesprächen.
-* [ ] **2. Technologieauswahl:**
+* [x] **2. Technologieauswahl:**
   * Django für das Backend und React für das Frontend sind bereits ausgewählt. Wir können weitere Technologien für Datenbanken, Hosting und Authentifizierung auswählen.
 * [ ] **3. Design und Layout:**
   * Entwurf des Webseitendesigns und Layouts, unter Berücksichtigung der von dir ausgewählten Farben und des modernen Stils.
