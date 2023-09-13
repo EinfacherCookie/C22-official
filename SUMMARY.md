@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Chat GPT](README.md)
+* [🤖 Chat GPT](README.md)
 * [💬 Anforderungsanalyse](anforderungsanalyse.md)
